@@ -40,3 +40,19 @@
 </info>
 </channel>
 </channels>
+
+///
+
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]LISTA M3U[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://image.flaticon.com/icons/png/512/28/28850.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/SamuelFerreira1192/samueltorrents/main/M3U</externallink>
+<fanart>https://iptvbrasil.io/wp-content/uploads/2018/02/LISTA-DE-CANAIS-IPTVBRASIL.IO_.jpeg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - LISTA ATUALIZADA TODA SEMANA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
