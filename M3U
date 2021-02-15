@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE TORRENT",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] SHOW FACE [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR]
 http://0.0.0.0:1234,
-#EXTINF:-1
-https://youtu.be/ABVQXgr2LW4
+#EXTINF:-1 TESTES
+https://zoevideos.net/player/aovivo/971,
+#EXTINF:-1 TESTES1
+https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/chunklist_w421583068.m3u8
 
