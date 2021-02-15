@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE TORRENT",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] SHOW FACE [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR]
+http://0.0.0.0:1234
 #EXTINF:-1,Better Life
 http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 #EXTINF:-1,WOW Tv
