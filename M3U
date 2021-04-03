@@ -1,10 +1,117 @@
-<item>
-<title>POKER CHANNEL</title> <!-- Titulo -->
-<link>mms://some/place/pokerchannel</link> <!-- link do video-->
-<thumbnail>http://channel.png</thumbnail> <!-- Icon -->
-<genre>Poker</genre> <!-- Genero -->
-<info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience.</info> <!-- Descrição -->
-<date>07.12.2011</date>  <!-- formato - dd.mm.yyyy -->
-<epg>https://raw.githubusercontent.com/SamuelFerreira1192/samueltorrents/main/guide.xml</epg>  <!-- Lista de Programção EPG-->
-<fanart></fanart>
-</item>
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/uNHXn9VDpe4/maxresdefault.jpg" group-title="filme", Palhaços Infernais
+https://1fiafzv.oloadcdn.net/dl/l/rPVgKOi1kum4m159/6J9px3jGgvg/Palha%C3%A7os.Infernais.2017.720.mp4?mime=true
+
+#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/07/13/19/08/327937.png" group-title="filme", As Aventuras Do Capitão Cueca
+http://185.38.12.60/sec/1507450307/3132333259a546213742e12a0ef225dea14b1f4cc7267ea3/ivs/b3/62/436ed968df00/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-YiHC_bH6fRA/WMNzSzuGbDI/AAAAAAAAAH0/JL3HTS_ltjUPRpawya4JLwPglJbpvEi3ACEw/s1600/kingkong-01.jpg" group-title="filme", Kong
+http://185.38.12.50/sec/1507450463/38343435e9033d55c902fa7ced99daed203c026837c984ff/ivs/b4/bc/df2bc8b2867e/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Mulher_maravilha_01.jpg" group-title="filme", Mulher Maravilha
+http://185.38.12.42/sec/1507451315/34383330151ad1eccbbaf532528076669ecc89e7d5e1c0ec/ivs/05/cc/cc79e5ea8c78/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-wyiGrKQO4V4/WEtX18ArBtI/AAAAAAAAY04/8QFIn9l24NA3LV_v09cKktyd5gak8r0-wCLcB/s1600/Homem-Aranha-De-Volta-ao-Lar-2017-trailer-dublado-legendado.jpg" group-title="filme", O Homem Aranha
+http://185.38.12.43/sec/1507452376/3630353424333475ae0094e91ca0a4d1d5c0feaef0665513/ivs/60/ec/41e69c82d058/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ0YWRjYjctYmQ5ZC00M2M2LWE0NzMtMTI4ZDg1NjIyZTM1XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="filme", A Síndrome de Berlin
+https://17wy0pj.oloadcdn.net/dl/l/CUToy_ctds_MU3zk/K1hATuCyzXM/A.Sidrome.de.Berlin.2017.1080p.BluRay.x264.DUBLOADO-.mp4?mime=
+
+#EXTINF:0 tvg-logo="http://www.fantaspoa.com/2017/resize_imagens/resize_cont_int.php?imagem=Ficcao_Cientifica_Volume_1-_A_Filha_de_Osiris_-_XIII_Festival_Internacional_de_Cinema_Fantastico_de_Porto_Alegre_-_FANTASPOA_2017.jpg&width=240&height=400&tamanho=m&diretorio=filme" group-title="filme", Filha De Osiris
+https://1fiafzw.oloadcdn.net/dl/l/04RshutMd4Nt0yzT/y85M9f5y6w0/Fic%C3%A7%C3%A3o.Cient%C3%ADfica.Volume.1.A.Filha.de.Osiris.2017.720p.BluRay.x264.DUBLADO-.mp4?mime=true
+
+#EXTINF:0 tvg-logo="http://canaldogordo.com.br/wp-content/uploads/2017/05/familiade2.png" group-title="filme", Uma Família de Dois
+https://1fiafzp.oloadcdn.net/dl/l/IuaL2wephi-mmytk/3npidTduiWk/Uma.Fam%C3%ADlia.de.Dois.2017.720p.BluRay.6CH.x264.DUBLADO-.mp4?mime=true
+
+#EXTINF:0 tvg-logo="http://overflix.com/uploads/monthly_2017_06/256817.jpg-r_672_960-f_jpg-q_x-xxyxx.jpg.a6f487103bb351e5fd76ca30a18f8dfb.jpg" group-title="", Piratas do Caribe: A Vingança de Salazar
+http://185.38.12.47/sec/1507463066/31313832bfa443ffc9bc3c3d8b364d9b6817beb73ee5fd7c/ivs/c1/bc/d5229d7f32a8/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-IRWnbpcLIbI/VOppJu9JKnI/AAAAAAAAEOc/FDiI_Nh41AI/s1600/jogo-perigoso.jpg" group-title="", Jogo Perigoso
+http://185.38.12.43/sec/1507463914/333133329299df2ca8e8919b60a61bf49837eaf3f8b79ee8/ivs/cb/1b/cfa2c2b20feb/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.indiewire.com/wp-content/uploads/2016/01/the-bounce-back.jpg?w=780" group-title="", Vencendo o Passado
+https://17wy0rh.oloadcdn.net/dl/l/PRRkipHZwY1kENj6/kAuFAAGyP0s/Vencendo.o.Passado.2017.720p.WEB-DL.6CH.x264.DUBLADO.mp4?mime=true
+
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/r_moana_header_poststreet_mobile_bd574a31.jpeg" group-title="filme", Moana
+http://185.38.12.48/sec/1507465557/363234332727b0001667b7ec7ae6b786bf9971b1666e33ba/ivs/c5/7b/8622f9c10a10/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://d1xfgk3mh635yx.cloudfront.net/sites/default/files/styles/original/public/image/attached/1031500-mune-poster1280x903.jpg?itok=QOIYGUK_" group-title="filme", Mune, O Guardião da Lua
+http://185.38.12.47/sec/1507466081/3231363464829c995af7e61c03c1750dcc8ddedc29c9973a/ivs/27/00/72bf361c52d9/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.sobrefavoritos.com.br/wp-content/uploads/2017/07/Cr%C3%ADtica-do-filme-Meu-Malvado-Favorito-3-Blog-Sobre-Favoritos-01.png" group-title="filme", Meu Malvdo Favorito 3
+http://185.38.12.43/sec/1507466550/333235360dab9d125ea08c0204fb761262b80294cb4b9dc1/ivs/cc/70/f7de4f343d78/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/12/01/12/07/523630.jpg" group-title="filme", A Canção do Oceano
+https://1fiag0q.oloadcdn.net/dl/l/U4i09GZ_2kpI_Qt-/8nglcGqdOS4/A.Cancao.do.Oceano.2017.1080p.BluRay.x264-.mkv.mp4?mime=true
+
+#EXTINF:0 tvg-logo="http://dx35vtwkllhj9.cloudfront.net/universalstudios/sing/images/regions/us/banner.jpg" group-title="filme", Sing
+http://185.38.12.60/sec/1507467103/3138373259cc9d6379d792a84e1654eed4ea5e4e49341f1b/ivs/43/6d/d03225119596/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/18/16/29/576071.jpg" group-title="filme", O Poderoso Chefinho
+http://185.38.12.42/sec/1507467303/333030390b4ee2869c1f657607162cff8f39a9dc3e52f31a/ivs/d7/8b/105f4d302d43/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://cinema10.com.br/upload/filmes/filmes_11568_lobo1.jpg" group-title="filme", Um Lobo em Pele de Cordeiro
+http://185.38.12.42/sec/1507467542/3538383316a8f49f92dbb99e5d70d576eda0829f32a80c9a/ivs/51/a2/2a26b30a6624/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/04/25/15/04/460419.jpg" group-title="filme", As Aventuras de Ozzy
+http://185.38.12.48/sec/1507467843/393737397f0033772eb5c9aa79e1e468bdeeabdddd6720f0/ivs/0a/1c/2fb7f9e3548c/hls/tracks-3,4/index.m3u8
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/uNHXn9VDpe4/maxresdefault.jpg" group-title="filme", Palhaços Infernais
+https://1fiafzv.oloadcdn.net/dl/l/rPVgKOi1kum4m159/6J9px3jGgvg/Palha%C3%A7os.Infernais.2017.720.mp4?mime=true
+
+#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/07/13/19/08/327937.png" group-title="filme", As Aventuras Do Capitão Cueca
+http://185.38.12.60/sec/1507450307/3132333259a546213742e12a0ef225dea14b1f4cc7267ea3/ivs/b3/62/436ed968df00/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-YiHC_bH6fRA/WMNzSzuGbDI/AAAAAAAAAH0/JL3HTS_ltjUPRpawya4JLwPglJbpvEi3ACEw/s1600/kingkong-01.jpg" group-title="filme", Kong
+http://185.38.12.50/sec/1507450463/38343435e9033d55c902fa7ced99daed203c026837c984ff/ivs/b4/bc/df2bc8b2867e/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Mulher_maravilha_01.jpg" group-title="filme", Mulher Maravilha
+http://185.38.12.42/sec/1507451315/34383330151ad1eccbbaf532528076669ecc89e7d5e1c0ec/ivs/05/cc/cc79e5ea8c78/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-wyiGrKQO4V4/WEtX18ArBtI/AAAAAAAAY04/8QFIn9l24NA3LV_v09cKktyd5gak8r0-wCLcB/s1600/Homem-Aranha-De-Volta-ao-Lar-2017-trailer-dublado-legendado.jpg" group-title="filme", O Homem Aranha
+http://185.38.12.43/sec/1507452376/3630353424333475ae0094e91ca0a4d1d5c0feaef0665513/ivs/60/ec/41e69c82d058/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ0YWRjYjctYmQ5ZC00M2M2LWE0NzMtMTI4ZDg1NjIyZTM1XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="filme", A Síndrome de Berlin
+https://17wy0pj.oloadcdn.net/dl/l/CUToy_ctds_MU3zk/K1hATuCyzXM/A.Sidrome.de.Berlin.2017.1080p.BluRay.x264.DUBLOADO-.mp4?mime=
+
+#EXTINF:0 tvg-logo="http://www.fantaspoa.com/2017/resize_imagens/resize_cont_int.php?imagem=Ficcao_Cientifica_Volume_1-_A_Filha_de_Osiris_-_XIII_Festival_Internacional_de_Cinema_Fantastico_de_Porto_Alegre_-_FANTASPOA_2017.jpg&width=240&height=400&tamanho=m&diretorio=filme" group-title="filme", Filha De Osiris
+https://1fiafzw.oloadcdn.net/dl/l/04RshutMd4Nt0yzT/y85M9f5y6w0/Fic%C3%A7%C3%A3o.Cient%C3%ADfica.Volume.1.A.Filha.de.Osiris.2017.720p.BluRay.x264.DUBLADO-.mp4?mime=true
+
+#EXTINF:0 tvg-logo="http://canaldogordo.com.br/wp-content/uploads/2017/05/familiade2.png" group-title="filme", Uma Família de Dois
+https://1fiafzp.oloadcdn.net/dl/l/IuaL2wephi-mmytk/3npidTduiWk/Uma.Fam%C3%ADlia.de.Dois.2017.720p.BluRay.6CH.x264.DUBLADO-.mp4?mime=true
+
+#EXTINF:0 tvg-logo="http://overflix.com/uploads/monthly_2017_06/256817.jpg-r_672_960-f_jpg-q_x-xxyxx.jpg.a6f487103bb351e5fd76ca30a18f8dfb.jpg" group-title="", Piratas do Caribe: A Vingança de Salazar
+http://185.38.12.47/sec/1507463066/31313832bfa443ffc9bc3c3d8b364d9b6817beb73ee5fd7c/ivs/c1/bc/d5229d7f32a8/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-IRWnbpcLIbI/VOppJu9JKnI/AAAAAAAAEOc/FDiI_Nh41AI/s1600/jogo-perigoso.jpg" group-title="", Jogo Perigoso
+http://185.38.12.43/sec/1507463914/333133329299df2ca8e8919b60a61bf49837eaf3f8b79ee8/ivs/cb/1b/cfa2c2b20feb/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.indiewire.com/wp-content/uploads/2016/01/the-bounce-back.jpg?w=780" group-title="", Vencendo o Passado
+https://17wy0rh.oloadcdn.net/dl/l/PRRkipHZwY1kENj6/kAuFAAGyP0s/Vencendo.o.Passado.2017.720p.WEB-DL.6CH.x264.DUBLADO.mp4?mime=true
+
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/r_moana_header_poststreet_mobile_bd574a31.jpeg" group-title="filme", Moana
+http://185.38.12.48/sec/1507465557/363234332727b0001667b7ec7ae6b786bf9971b1666e33ba/ivs/c5/7b/8622f9c10a10/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://d1xfgk3mh635yx.cloudfront.net/sites/default/files/styles/original/public/image/attached/1031500-mune-poster1280x903.jpg?itok=QOIYGUK_" group-title="filme", Mune, O Guardião da Lua
+http://185.38.12.47/sec/1507466081/3231363464829c995af7e61c03c1750dcc8ddedc29c9973a/ivs/27/00/72bf361c52d9/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.sobrefavoritos.com.br/wp-content/uploads/2017/07/Cr%C3%ADtica-do-filme-Meu-Malvado-Favorito-3-Blog-Sobre-Favoritos-01.png" group-title="filme", Meu Malvdo Favorito 3
+http://185.38.12.43/sec/1507466550/333235360dab9d125ea08c0204fb761262b80294cb4b9dc1/ivs/cc/70/f7de4f343d78/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/12/01/12/07/523630.jpg" group-title="filme", A Canção do Oceano
+https://1fiag0q.oloadcdn.net/dl/l/U4i09GZ_2kpI_Qt-/8nglcGqdOS4/A.Cancao.do.Oceano.2017.1080p.BluRay.x264-.mkv.mp4?mime=true
+
+#EXTINF:0 tvg-logo="http://dx35vtwkllhj9.cloudfront.net/universalstudios/sing/images/regions/us/banner.jpg" group-title="filme", Sing
+http://185.38.12.60/sec/1507467103/3138373259cc9d6379d792a84e1654eed4ea5e4e49341f1b/ivs/43/6d/d03225119596/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/18/16/29/576071.jpg" group-title="filme", O Poderoso Chefinho
+http://185.38.12.42/sec/1507467303/333030390b4ee2869c1f657607162cff8f39a9dc3e52f31a/ivs/d7/8b/105f4d302d43/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://cinema10.com.br/upload/filmes/filmes_11568_lobo1.jpg" group-title="filme", Um Lobo em Pele de Cordeiro
+http://185.38.12.42/sec/1507467542/3538383316a8f49f92dbb99e5d70d576eda0829f32a80c9a/ivs/51/a2/2a26b30a6624/hls/tracks-3,4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/04/25/15/04/460419.jpg" group-title="filme", As Aventuras de Ozzy
+http://185.38.12.48/sec/1507467843/393737397f0033772eb5c9aa79e1e468bdeeabdddd6720f0/ivs/0a/1c/2fb7f9e3548c/hls/tracks-3,4/index.m3u8
+
