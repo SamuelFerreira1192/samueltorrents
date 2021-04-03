@@ -8,3 +8,32 @@
 <epg></epg>  <!-- Lista de Programção EPG-->
 <fanart>http://fanart.jpg</fanart>
 </item>
+
+<channel>
+<name>Acompanhante</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>[B]  - [COLOR yellow](2020)[/COLOR] - [COLOR lime](FHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://54.39.157.211/FILMES/A.Acompanhante.mp4</link>
+<thumbnail>https://a.wattpad.com/cover/221078160-352-k62556.jpg</thumbnail>
+<fanart>https://uploads.spiritfanfiction.com/fanfics/historias/202006/a-acompanhante-19713178-240620200922.jpg</fanart>
+<info>
+Sinopse:
+</info>
+<genre> Gênero: </genre>
+</item>
+
+
+<item>
+<title>[COLOR lime] TRAILER [/COLOR]</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2AwP0dobSU4</trailer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+Sinopse:
+</info>
+<genre> Gênero:  </genre>
+</item>
+
+</channel>
