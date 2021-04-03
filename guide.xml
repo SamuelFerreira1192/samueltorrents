@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="A&amp;E Mundo">
+    <display-name lang="pt">A&amp;E Mundo</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Agro+">
+    <display-name lang="pt">Agro+</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="ART">
+    <display-name lang="pt">ART</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Arte 1 HD">
+    <display-name lang="pt">Arte 1 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="ARTE1">
+    <display-name lang="pt">ARTE1</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Aviso">
+    <display-name lang="pt">Aviso</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+</tv>
