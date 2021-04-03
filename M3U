@@ -1,8 +1,10 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE TORRENT",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] SHOW FACE [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE TORRENT",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] TESTES [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR]
-http://www.animeson.club/wolfs-rain-dublado/78013.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE TORRENT",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] TESTES02 [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR] 
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+<item>
+<title>POKER CHANNEL</title> <!-- Titulo -->
+<link>mms://some/place/pokerchannel</link> <!-- link do video-->
+<thumbnail>http://channel.png</thumbnail> <!-- Icon -->
+<genre>Poker</genre> <!-- Genero -->
+<info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience.</info> <!-- Descrição -->
+<date>07.12.2011</date>  <!-- formato - dd.mm.yyyy -->
+<epg>https://raw.githubusercontent.com/SamuelFerreira1192/samueltorrents/main/guide.xml</epg>  <!-- Lista de Programção EPG-->
+<fanart></fanart>
+</item>
