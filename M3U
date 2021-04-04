@@ -2,6 +2,6 @@
 #EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] SHOW FACE [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/751.png" group-title="CANAL FECHADO", ANIMAL PLANET - (SP)
-http://mu03.amzlive.net:8880/zq12y192/9EtU6KeXyS/2952.m3u8
+#EXTINF:-1,Россия 1 (эфир)
+http://78.30.193.52:7788/udp/238.1.1.192:1234
 
