@@ -1,3 +1,17 @@
+
+<item>
+<title>GLOBO FHD</title> <!-- Titulo -->
+<link>http://trenduhd.xyz:80/daqu3547/11150240/188301</link> <!-- link do video-->
+<thumbnail>http://crawler.mdcgate.com/iptv/logo/68767.png</thumbnail> <!-- Icon -->
+<genre>CANAL ABERTO</genre> <!-- Genero -->
+<info>Rede GLOBO</info> <!-- Descrição -->
+<date>04.04.2021</date>  <!-- formato - dd.mm.yyyy -->
+<epg></epg>  <!-- Lista de Programção EPG-->
+<fanart>http://fanart.jpg</fanart>
+</item>
+
+
+
 #EXTM3U
 
 #EXTINF:-1,Animal Planet em Inglês
