@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] SHOW FACE [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="COLOCAR URL DA IMAGEM AQUI" group-title="CANAL ABERTO", SBT - TV OSASCO - (SP)
-https://tv4.live/api/stream/9kcag@nenekbet.com/706682/livetv.epg/animal.planet.us.east.us
-#EXTINF:-1 tvg-logo="COLOCAR URL DA IMAGEM AQUI" group-title="CANAL ABERTO", SBT - TV OSASCO - (SP)
-http://yakisobamix.click:80/gabriel123/gabriel321/91984
-#EXTINF:-1 tvg-logo="COLOCAR URL DA IMAGEM AQUI" group-title="CANAL ABERTO", SBT - TV OSASCO - (SP)
-http://tau.selfip.com:25461/dj2004/759296/1152.m3u8
-#EXTINF:-1 tvg-logo="COLOCAR URL DA IMAGEM AQUI" group-title="CANAL ABERTO", SBT - TV OSASCO - (SP)
-http://dark-r3v0.dyndns.org:80/robypier/e5gQ85Qm8G/83.m3u8
-#EXTINF:-1 tvg-logo="COLOCAR URL DA IMAGEM AQUI" group-title="CANAL ABERTO", SBT - TV OSASCO - (SP)
-http://tv.sbcommunications.xdns.pro:80/BesimLostorf/0FL8H384/12060.m3u8
-#EXTINF:-1 tvg-logo="COLOCAR URL DA IMAGEM AQUI" group-title="CANAL ABERTO", SBT - TV OSASCO - (SP)
+#EXTINF:-1,Unknown_1
+http://latinoamericatv.vip:3334/Kaka/Kaka/97?source:iptvmate.net
+#EXTINF:-1,Unknown_2
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,Unknown_6
+http://cinematicket.club/cantp.php?c=88&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1,Unknown_10
+http://85.143.191.135/42/e817bdfb25e26edbe584e028c7cec4fbc2cf4e39/96/stream.m3u8
+#EXTINF:-1,Unknown_12
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/899
+#EXTINF:-1,Unknown_14
+http://mu03.amzlive.net:8880/zq12y192/9EtU6KeXyS/2952
