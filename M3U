@@ -23,3 +23,92 @@
 <epg></epg>  <!-- Lista de Programção EPG-->
 <fanart>http://fanart.jpg</fanart>
 </item>
+
+///
+
+<item>
+<title>SKY SPORT UNO</title> <!-- Titulo -->
+<link>http://crazysupertv00.ddns.net:80/v2YK5KCw4s/xtgJ3aF4/184</link> <!-- link do video-->
+<thumbnail>http://crawler.mdcgate.com/iptv/logo/348295.png</thumbnail> <!-- Icon -->
+<genre>CANAL ABERTO</genre> <!-- Genero -->
+<info></info> <!-- Descrição -->
+<date>04.04.2021</date>  <!-- formato - dd.mm.yyyy -->
+<epg></epg>  <!-- Lista de Programção EPG-->
+<fanart>https://gps.pezquiza.com/wp-content/uploads/2020/04/iptv-lega.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>ESPN (West Server)</title> <!-- Titulo -->
+<link>http://primestreams.tv:826/SbMX4968h/TZwdW6RX0K/86502</link> <!-- link do video-->
+<thumbnail>http://primestreamstv.com/logos/ESPN.png</thumbnail> <!-- Icon -->
+<genre>CANAL ABERTO</genre> <!-- Genero -->
+<info></info> <!-- Descrição -->
+<date>04.04.2021</date>  <!-- formato - dd.mm.yyyy -->
+<epg></epg>  <!-- Lista de Programção EPG-->
+<fanart>https://gps.pezquiza.com/wp-content/uploads/2020/04/iptv-lega.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>FOX</title> <!-- Titulo -->
+<link>http://primestreams.tv:826/MichaelRivera/gJynWaBAOJ/77480</link> <!-- link do video-->
+<thumbnail>http://crawler.mdcgate.com/iptv/logo/969.png</thumbnail> <!-- Icon -->
+<genre>CANAL ABERTO</genre> <!-- Genero -->
+<info></info> <!-- Descrição -->
+<date>04.04.2021</date>  <!-- formato - dd.mm.yyyy -->
+<epg></epg>  <!-- Lista de Programção EPG-->
+<fanart>https://gps.pezquiza.com/wp-content/uploads/2020/04/iptv-lega.jpg</fanart>
+</item>
+
+
+<item>
+<title></title> <!-- Titulo -->
+<link></link> <!-- link do video-->
+<thumbnail></thumbnail> <!-- Icon -->
+<genre>CANAL ABERTO</genre> <!-- Genero -->
+<info></info> <!-- Descrição -->
+<date>04.04.2021</date>  <!-- formato - dd.mm.yyyy -->
+<epg></epg>  <!-- Lista de Programção EPG-->
+<fanart>https://gps.pezquiza.com/wp-content/uploads/2020/04/iptv-lega.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>HISTORY HD</title> <!-- Titulo -->
+<link>http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/984</link> <!-- link do video-->
+<thumbnail>http://crawler.mdcgate.com/iptv/logo/596.png</thumbnail> <!-- Icon -->
+<genre>CANAL PAGO</genre> <!-- Genero -->
+<info></info> <!-- Descrição -->
+<date>04.04.2021</date>  <!-- formato - dd.mm.yyyy -->
+<epg></epg>  <!-- Lista de Programção EPG-->
+<fanart>https://gps.pezquiza.com/wp-content/uploads/2020/04/iptv-lega.jpg</fanart>
+</item>
+
+
+<item>
+<title>HBO</title> <!-- Titulo -->
+<link>http://xdgo.live:8080/betopanatv2/RRarY23Hag/814</link> <!-- link do video-->
+<thumbnail>http://crawler.mdcgate.com/iptv/logo/450.png</thumbnail> <!-- Icon -->
+<genre>CANAL PAGO</genre> <!-- Genero -->
+<info></info> <!-- Descrição -->
+<date>04.04.2021</date>  <!-- formato - dd.mm.yyyy -->
+<epg></epg>  <!-- Lista de Programção EPG-->
+<fanart>https://gps.pezquiza.com/wp-content/uploads/2020/04/iptv-lega.jpg</fanart>
+</item>
+
+
+<item>
+<title>HBO Comedy</title> <!-- Titulo -->
+<link>live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=916314&290962</link> <!-- link do video-->
+<thumbnail>http://crawler.mdcgate.com/iptv/logo/5877.png</thumbnail> <!-- Icon -->
+<genre>CANAL PAGO</genre> <!-- Genero -->
+<info></info> <!-- Descrição -->
+<date>04.04.2021</date>  <!-- formato - dd.mm.yyyy -->
+<epg></epg>  <!-- Lista de Programção EPG-->
+<fanart>https://gps.pezquiza.com/wp-content/uploads/2020/04/iptv-lega.jpg</fanart>
+</item>
+
