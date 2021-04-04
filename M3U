@@ -10,3 +10,16 @@
 <fanart>http://fanart.jpg</fanart>
 </item>
 
+///
+
+
+<item>
+<title>BAND NEW FHD</title> <!-- Titulo -->
+<link>http://svrhost.club/marcellocavallare/qvFIOGJwVB/1978?tkn=1609554809</link> <!-- link do video-->
+<thumbnail>http://crawler.mdcgate.com/iptv/logo/29787.png</thumbnail> <!-- Icon -->
+<genre>CANAL ABERTO</genre> <!-- Genero -->
+<info>Rede GLOBO</info> <!-- Descrição -->
+<date>04.04.2021</date>  <!-- formato - dd.mm.yyyy -->
+<epg></epg>  <!-- Lista de Programção EPG-->
+<fanart>http://fanart.jpg</fanart>
+</item>
