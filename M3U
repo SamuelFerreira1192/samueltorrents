@@ -65,10 +65,10 @@
 
 
 <item>
-<title></title> <!-- Titulo -->
-<link></link> <!-- link do video-->
-<thumbnail></thumbnail> <!-- Icon -->
-<genre>CANAL ABERTO</genre> <!-- Genero -->
+<title>FOX SPORT</title> <!-- Titulo -->
+<link>https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8</link> <!-- link do video-->
+<thumbnail>http://crawler.mdcgate.com/iptv/logo/96771.png</thumbnail> <!-- Icon -->
+<genre>CANAL PAGO</genre> <!-- Genero -->
 <info></info> <!-- Descrição -->
 <date>04.04.2021</date>  <!-- formato - dd.mm.yyyy -->
 <epg></epg>  <!-- Lista de Programção EPG-->
