@@ -1,17 +1,10 @@
 <item>
-<title>3096 Dias De Cativeiro3096 Dias De Cativeiro</title> <!-- Titulo -->
-<link>http://54.39.157.211/FILMES/3096.Dias.De.Cativeiro.mp4</link> <!-- link do video-->
+<title>POKER CHANNEL</title> <!-- Titulo -->
+<link>http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8</link> <!-- link do video-->
 <thumbnail>http://channel.png</thumbnail> <!-- Icon -->
 <genre>Poker</genre> <!-- Genero -->
-<info>UM TESTE</info> <!-- Descrição -->
-<date>03.04.2021</date>  <!-- formato - dd.mm.yyyy -->
+<info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience.</info> <!-- Descrição -->
+<date>07.12.2011</date>  <!-- formato - dd.mm.yyyy -->
 <epg></epg>  <!-- Lista de Programção EPG-->
 <fanart>http://fanart.jpg</fanart>
 </item>
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] SHOW FACE [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/751.png" group-title="CANAL FECHADO", ANIMAL PLANET - (SP)
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
