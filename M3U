@@ -2,6 +2,17 @@
 #EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] SHOW FACE [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,Россия 1 (эфир)
-http://78.30.193.52:7788/udp/238.1.1.192:1234
+#EXTINF:-1, TESTE0
+https://tv4.live/api/stream/9kcag@nenekbet.com/706682/livetv.epg/animal.planet.us.east.us.m3u8
 
+#EXTINF:-1, TESTE1
+http://yakisobamix.click:80/gabriel123/gabriel321/91984.m3u8
+
+#EXTINF:-1, TESTE2
+http://tau.selfip.com:25461/dj2004/759296/1152.m3u8
+
+#EXTINF:-1, TESTE3
+http://dark-r3v0.dyndns.org:80/robypier/e5gQ85Qm8G/83.m3u8
+
+#EXTINF:-1, TESTE4
+http://tv.sbcommunications.xdns.pro:80/BesimLostorf/0FL8H384/12060.m3u8
