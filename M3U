@@ -3,10 +3,10 @@
 http://0.0.0.0:1234
 
 #EXTINF:-1, TESTE0
-https://tv4.live/api/stream/9kcag@nenekbet.com/706682/livetv.epg/animal.planet.us.east.us.m3u8
+https://tv4.live/api/stream/9kcag@nenekbet.com/706682/livetv.epg/animal.planet.us.east.us
 
 #EXTINF:-1, TESTE1
-http://yakisobamix.click:80/gabriel123/gabriel321/91984.m3u8
+http://yakisobamix.click:80/gabriel123/gabriel321/91984
 
 #EXTINF:-1, TESTE2
 http://tau.selfip.com:25461/dj2004/759296/1152.m3u8
