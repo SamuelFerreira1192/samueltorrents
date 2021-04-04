@@ -9,50 +9,9 @@
 <fanart>http://fanart.jpg</fanart>
 </item>
 
-<channel>
-<name>Acompanhante</name>
-<thumbnail></thumbnail>
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] SHOW FACE [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR]
+http://0.0.0.0:1234
 
-<item>
-<title>[B]  - [COLOR yellow](2020)[/COLOR] - [COLOR lime](FHD)[/COLOR] - DUBLADO[/B]</title>
-<link>http://54.39.157.211/FILMES/A.Acompanhante.mp4</link>
-<thumbnail>https://a.wattpad.com/cover/221078160-352-k62556.jpg</thumbnail>
-<fanart>https://uploads.spiritfanfiction.com/fanfics/historias/202006/a-acompanhante-19713178-240620200922.jpg</fanart>
-<info>
-Sinopse:
-</info>
-<genre> Gênero: </genre>
-</item>
-
-
-<item>
-<title>[COLOR lime] TRAILER [/COLOR]</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2AwP0dobSU4</trailer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>
-Sinopse:
-</info>
-<genre> Gênero:  </genre>
-</item>
-
-</channel>
-
-
-
-<channel>
-<name>Acompanhante</name>
-<thumbnail></thumbnail>
-
-<item>
-<title>[B]  - [COLOR yellow](2020)[/COLOR] - [COLOR lime](FHD)[/COLOR] - DUBLADO[/B]</title>
-<link>http://54.39.157.211/FILMES/A.Acompanhante.mp4</link>
-<link>https://www.youtube.com/watch?v=O0Vvy5RI8WU</link>
-<thumbnail>https://a.wattpad.com/cover/221078160-352-k62556.jpg</thumbnail>
-<fanart>https://uploads.spiritfanfiction.com/fanfics/historias/202006/a-acompanhante-19713178-240620200922.jpg</fanart>
-<info>
-Sinopse:
-</info>
-<genre> Gênero: </genre>
-</item>
-</channel>
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/751.png" group-title="CANAL FECHADO", ANIMAL PLANET - (SP)
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
